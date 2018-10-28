@@ -3,4 +3,4 @@ Green.
 Blue.
 opacity.
 Indigo added.
-Purple color added.
+Purple color added
