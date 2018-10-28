@@ -4,3 +4,7 @@ Blue.
 opacity.
 Indigo added.
 Purple color added
+I am adding some fruits.
+Mango.
+Banana.
+Litchi.
